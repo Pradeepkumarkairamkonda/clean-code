@@ -1,0 +1,80 @@
+Clean Code 
+--------------------------------------------------------------------------------------------------------------------------------------
+clean code is easy to read and understand.
+As a developer you are the author of your code.You write the code easy to read and understand your code.
+
+clean code : It's about the code you write.
+clean Architecture: It's about how you sturcture your project.(where to write which code eg: dependency injection, databinding ....logic)
+
+Names
+---------------------------------------------------------------------------------------------------------------------------------------
+Names should be meaningful.
+
+variables/constants ----Use nouns or short phrases with adjectives.
+eg : const userData = {...}
+     const isValid = true;
+
+Functions/methods ----Use verbs or short phrases with adjectives.
+eg : sendData()
+     inputIsValid()
+
+classes --- Use noun or short phrases with nouns.
+
+eg : class User {...}
+     class RequestBody{...}
+
+
+Name Casing :
+-----------------------------------------------------------------------------------------------------------------------------------------------
+
+In Programming, we got four main ways of writing our names 
+
+1)  snake_case 
+    eg: is_valid
+    eg : python
+    variables funtions methods
+
+2) camelCase
+   eg : isValid
+   eg : java, javaScript
+   variables functions methods
+
+3) PascalCase
+   eg : AdminRole
+   eg : javaScript, java, python
+   eg : classes
+
+4) kebab-case
+  eg : <pradeep-kumar>
+  eg: HTML
+  eg: custom HTML elements
+-------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
